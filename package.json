@@ -1,11 +1,11 @@
 {
-  "name": "@agm/_dev",
-  "private": true,
+  "name": "@crexi-dev/ng-gmaps",
+  "private": false,
   "version": "1.0.0-beta.3",
   "description": "Angular components for Google Maps",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SebastianM/angular-google-maps.git"
+    "url": "https://github.com/crexi-dev/angular-google-maps.git"
   },
   "keywords": [
     "angular",
@@ -45,9 +45,8 @@
   "author": "Sebastian Holstein <info@sebastian-holstein.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SebastianM/angular-google-maps/issues"
+    "url": "https://github.com/crexi-dev/angular-google-maps/issues"
   },
-  "homepage": "https://angular-maps.com",
   "peerDependencies": {
     "@angular/common": "^5.0.0 || ^6.0.0",
     "@angular/core": "^5.0.0 || ^6.0.0"
