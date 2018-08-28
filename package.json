@@ -1,6 +1,5 @@
 {
   "name": "@crexi-dev/ng-gmaps",
-  "private": false,
   "version": "1.0.0-beta.3",
   "description": "Angular components for Google Maps",
   "repository": {
